@@ -10,7 +10,7 @@ namespace GitA1
     {
         static void Main(string[] args)
         {
-         // Ivaylo changed from master branch
+         // master branch
         }
     }
 }
